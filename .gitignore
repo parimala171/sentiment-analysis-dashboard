@@ -4,3 +4,4 @@ __pycache__/
 model.pkl
 vectorizer.pkl
 cleaned_data.csv
+raw_data.csv
